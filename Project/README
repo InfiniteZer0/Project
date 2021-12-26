@@ -8,3 +8,15 @@ sudo pip install psycopg2
 запуск 
 python3 main.py
 
+Параметры для текущего проекта
+Enter database:
+postgres
+Enter user:
+postgres
+Enter password:
+root
+Enter host:
+10.5.0.2
+Enter port:
+5432
+
